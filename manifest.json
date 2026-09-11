@@ -1,41 +1,20 @@
 {
-  "background_color": "#ffffff",
-  "dir": "ltr",
-  "display": "standalone",
   "name": "Didus World",
-  "orientation": "any",
-  "scope": "/",
   "short_name": "Didus World",
-  "start_url": "/",
+  "description": "Didu’s World — a personal space created with love, memories, and moments that matter.",
+  "id": "/Didus-world/",
+  "start_url": "/Didus-world/",
+  "scope": "/Didus-world/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#ffffff",
   "theme_color": "#a948d0",
+  "dir": "ltr",
   "icons": [
     {
-      "src": "https://ayushproatr.github.io/Didus-world/icon-192.png",
-      "type": "image/png",
-      "sizes": "192x192",
-      "isSquare": true,
-      "isPng": true,
-      "isWebp": false,
-      "isJpg": false,
-      "width": 192,
-      "is512x512": false,
-      "is256x256": false,
-      "is192x192": true
-    },
-    {
-      "src": "https://ayushproatr.github.io/Didus-world/icon-512.png",
-      "type": "image/png",
-      "sizes": "512x512",
-      "isSquare": true,
-      "isPng": true,
-      "isWebp": false,
-      "isJpg": false,
-      "width": 512,
-      "is512x512": true,
-      "is256x256": false,
-      "is192x192": false
+      "src": "/Didus-world/icon.jpeg",
+      "sizes": "521x512",
+      "type": "image/jpeg"
     }
-  ],
-  "id": "/Didus-world/",
-  "description": "Didu’s World — a personal space created with love, memories, and moments that matter."
+  ]
 }
